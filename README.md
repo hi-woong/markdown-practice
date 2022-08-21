@@ -143,7 +143,7 @@ $ git commit -m 'Study Markdown'
 <strong>동해물</strong>과 <u>백두산</u>이 마르고 닳도록<br/>
 하느님이 보우하사 우리나라 만세
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+<img width="70" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/4532/production/_126241771_gettyimages-1224404559-1.jpg" alt="HEROPY" />
 
 # 수평선(Horizontal Rule)
 
